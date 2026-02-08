@@ -1,2 +1,2 @@
-# -dmin-Panel-for-RAGE-MP-
+# Admin-Panel-for-RAGE-MP-
 Данная админ панель предназначена для серверов на площадке RAGE:MP она в открытом доступе!
